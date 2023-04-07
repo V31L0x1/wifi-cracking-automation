@@ -16,12 +16,12 @@ The script was developed using Python 3 and has been tested on Linux systems. So
 
 To use this script, clone this repository to your local machine:
 
-<pre><div class="p-4 overflow-y-auto"><code  style="color:white" class="!whitespace-pre hljs language-bash">git clone https://github.com/<username>/wifi-cracking-automation.git
+<pre><div class="p-4 overflow-y-auto"><code  style="color:white" class="!whitespace-pre hljs language-bash">git clone https://github.com/V31l0x1/wifi-cracking-automation.git
 </code></div></div></pre>
 
 Then, install the required tools by running the following command in the repository directory:
 
-<pre><div class="p-4 overflow-y-auto"><code style="color:white" class="!whitespace-pre hljs language-bash">sudo ./install.sh
+<pre><div class="p-4 overflow-y-auto"><code style="color:white" class="!whitespace-pre hljs language-bash">sudo python install -r requirements.txt
 </code></div></div></pre>
 
 ## Usage
